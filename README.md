@@ -67,7 +67,7 @@ SimpleTemplate.format(templateString, data);
 
 ## More
 
-1. If you want custom your format patter. you can like this:
+1. If you want custom your format pattern. you can like this:
 
 ```js
 import SimpleTemplate from 'simple-string-template';
