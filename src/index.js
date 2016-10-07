@@ -1,1 +1,1 @@
-export default from './js/HelloWorld';
+export default from './js/SimpleTemplate';
